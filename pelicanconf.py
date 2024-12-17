@@ -1,6 +1,7 @@
 AUTHOR = 'Narendra Singh'
 SITENAME = 'datajek'
-SITEURL = ""
+SITEURL = 'https://iamnarendrasingh.github.io/datajek'
+RELATIVE_URLS = False
 
 PATH = "content"
 
